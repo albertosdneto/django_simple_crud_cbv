@@ -9,8 +9,9 @@ Building a simple CRUD with Django and Class Based Views.
 ```shell
 git clone https://github.com/albertosdneto/django_simple_crud_cbv.git
 ```
-- Create a virtual environment with python 3.6.
+- Enter the folder and create a virtual environment with python 3.6.
 ```shell
+cd django_simple_crud_cbv
 python3 -m venv venv
 ```
 - Activate the virtual environment you have just created:

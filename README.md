@@ -2,7 +2,7 @@
 
 ## About
 
-Building a simple CRUD with Django and Class Based Views.
+Building a simple CRUD with Django and Class Based Views. You can find more details at <https://blog.albertosenna.com/2020/01/26/django-crud-with-class-based-views/>.
 
 ## Installation
 - Clone the repository:
